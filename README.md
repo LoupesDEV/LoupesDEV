@@ -8,7 +8,7 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 
 🔹 **Langages & Technologies** : `HTML/CSS/JS`, `React`, `Python`, `C/C++/C#`, `PSQL`
 
-🔹 **Projet actuel** : [StreamIt](https://github.com/KucoDEV/StreamIt), [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox), [Portfolio](https://github.com/KucoDEV/kucodev.github.io/)
+🔹 **Projet actuel** : [StreamIt](https://github.com/LoupesDEV/StreamIt), [OratisAI](https://github.com/LoupesDEV/OratisAI), [MyBox](https://github.com/LoupesDEV/MyBox), [Portfolio](https://github.com/LoupesDEV/LoupesDEV.github.io/)
 
 🔹 **Centres d'intérêt** : Développement web, applications, intelligence artificielle
 
@@ -19,25 +19,25 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 ## 📊 Mes Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=KucoDEV&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LoupesDEV&theme=onedark" />
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/KucoDEV/count.svg" />
+    <img src="https://profile-counter.glitch.me/LoupesDEV/count.svg" />
 </div>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=KucoDEV&data=followers,repositories,stars,commits&theme=darkmode" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=LoupesDEV&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
 
 <p align="center">
-    <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KucoDEV&theme=github_dark" />
+    <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoupesDEV&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KucoDEV&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LoupesDEV&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
@@ -45,20 +45,20 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 ## 🌟 Projets en avant
 
 <div align="center">
-  <a href="https://github.com/KucoDEV/StreamIt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=StreamIt&theme=dark" />
+  <a href="https://github.com/LoupesDEV/StreamIt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=StreamIt&theme=dark" />
   </a>
-  <a href="https://github.com/KucoDEV/MyBox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=MyBox&theme=dark" />
+  <a href="https://github.com/LoupesDEV/MyBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=MyBox&theme=dark" />
   </a>
-  <a href="https://github.com/KucoDEV/OratisAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=OratisAI&theme=dark" />
+  <a href="https://github.com/LoupesDEV/OratisAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=OratisAI&theme=dark" />
   </a> 
-  <a href="https://github.com/KucoDEV/InOut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=InOut&theme=dark" />
+  <a href="https://github.com/LoupesDEV/InOut">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=InOut&theme=dark" />
   </a>  
-  <a href="https://github.com/KucoDEV/kucodev.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=kucodev.github.io&theme=dark" />
+  <a href="https://github.com/LoupesDEV/LoupesDEV.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=LoupesDEV.github.io&theme=dark" />
   </a> 
   <a href="https://github.com/OratisDEV/oratisdev.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OratisDEV&repo=oratisdev.github.io&theme=dark" />
@@ -70,10 +70,10 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 ## 🔧 Moi en quelques lignes de code
 
 ```python
-class Kuco():
+class Loupes():
     def __init__(self) -> None:
-        self.name = 'Kuco'
-        self.link = 'https://www.oratis.fr'
+        self.name = 'Loupes'
+        self.link = 'https://www.cyrex.fr'
         self.about = 'Developer'
     
     def __gt__(self, other) -> bool:
@@ -81,17 +81,17 @@ class Kuco():
 ```
 
 ```java
-class Kuco {
-    public Kuco() {
-        this.name = "Kuco";
-        this.link = "https://www.oratis.fr";
+class Loupes {
+    public Loupes() {
+        this.name = "Loupes";
+        this.link = "https://www.cyrex.fr";
         this.about = "Developer";
     }
     public String name;
     public String link;
     public String about;
 
-    public boolean compareTo(Kuco other) {
+    public boolean compareTo(Loupes other) {
         return true;
     }
 }
@@ -101,7 +101,7 @@ class Kuco {
 
 ## 📫 Contact
 
-💼 [Portfolio](https://kucodev.github.io)   
+💼 [Portfolio](https://LoupesDEV.github.io)   
 📩 **Mail** : Matheo.PICHOT-MOISE@etu.uca.fr
 
 ---
