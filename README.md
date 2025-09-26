@@ -8,7 +8,7 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 
 🔹 **Langages & Technologies** : `HTML/CSS/JS`, `React`, `Python`, `C/C++/C#`, `PSQL`
 
-🔹 **Projet actuel** : [StreamIt](https://github.com/LoupesDEV/StreamIt), [OratisAI](https://github.com/LoupesDEV/OratisAI), [MyBox](https://github.com/LoupesDEV/MyBox), [Portfolio](https://github.com/LoupesDEV/LoupesDEV.github.io/)
+🔹 **Projet actuel** : [StreamIt](https://github.com/LoupesDEV/StreamIt), [Portfolio](https://github.com/LoupesDEV/LoupesDEV.github.io/), [Cyrex Studio Website](https://github.com/CyrexStudio/CyrexStudio.github.io/), [soundfixer](https://github.com/valpackett/soundfixer)
 
 🔹 **Centres d'intérêt** : Développement web, applications, intelligence artificielle
 
@@ -48,15 +48,15 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
   <a href="https://github.com/LoupesDEV/StreamIt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=StreamIt&theme=dark" />
   </a>
+  <a href="https://github.com/valpacket/soundfixer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valpackett&repo=soundfixer&theme=dark" />
+  </a>  
   <a href="https://github.com/LoupesDEV/MyBox">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=MyBox&theme=dark" />
   </a>
-  <a href="https://github.com/LoupesDEV/OratisAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=OratisAI&theme=dark" />
+  <a href="https://github.com/CyrexStudio/CyrexStudio.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyrexStudio&repo=CyrexStudio.github.io&theme=dark" />
   </a> 
-  <a href="https://github.com/LoupesDEV/InOut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=InOut&theme=dark" />
-  </a>  
   <a href="https://github.com/LoupesDEV/LoupesDEV.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=LoupesDEV.github.io&theme=dark" />
   </a> 
@@ -73,6 +73,7 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 class Loupes():
     def __init__(self) -> None:
         self.name = 'Loupes'
+        self.org = 'Cyrex Studio'
         self.link = 'https://www.cyrex.fr'
         self.about = 'Developer'
     
@@ -84,6 +85,7 @@ class Loupes():
 class Loupes {
     public Loupes() {
         this.name = "Loupes";
+        this.org = "Cyrex Studio";
         this.link = "https://www.cyrex.fr";
         this.about = "Developer";
     }
@@ -101,8 +103,11 @@ class Loupes {
 
 ## 📫 Contact
 
-💼 [Portfolio](https://LoupesDEV.github.io)   
-📩 **Mail** : Matheo.PICHOT-MOISE@etu.uca.fr
+💼 [Portfolio](https://www.matheo-pichotmoise.fr/)   
+📩 **Mail** :<br>
+- Matheo.PICHOT-MOISE@etu.uca.fr<br>
+- contact@matheo-pichotmoise.fr<br>
+- contact@cyrex.fr
 
 ---
 
