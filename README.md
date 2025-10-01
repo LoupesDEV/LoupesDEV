@@ -1,7 +1,3 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00eaff&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Mathéo+Pichot-Moïse+!;Développeur+Fullstack+passionné+%F0%9F%92%BB;Bienvenue+sur+mon+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
 
 ---
 
