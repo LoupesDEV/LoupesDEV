@@ -17,6 +17,28 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/LoupesDEV/StreamIt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=StreamIt&theme=radical" alt="SteamIt" />
+  </a>
+  <a href="https://github.com/CyrexStudio/CyrexStudio.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyrexStudio&repo=CyrexStudio.github.io&theme=radical" alt="Cyrex Studio Website" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/valpackett/soundfixer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valpackett&repo=soundfixer&theme=radical" alt="SoundFixer" />
+  </a>
+  <a href="https://github.com/LoupesDEV/loupesdev.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=loupesdev.github.io&theme=radical" alt="Project 4" />
+  </a>
+</p>
+
+---
+
 ### 💻 Tech Stack
 
 <p align="center">
@@ -62,3 +84,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=LoupesDEV&show_icons=true&theme=radical" width="480" alt="GitHub Readme Stats" />
   </a>
 </p>
+
