@@ -21,19 +21,28 @@
 
 <p align="center">
   <a href="https://github.com/LoupesDEV/StreamIt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=StreamIt&theme=radical" alt="SteamIt" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=StreamIt&theme=radical" alt="SteamIt" height="120"/>
+  </a>
+  <a href="https://github.com/LoupesDEV/LiftIt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=LiftIt&theme=radical" alt="LiftIt" height="120"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LoupesDEV/loupesdev.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=loupesdev.github.io&theme=radical" alt="My Portfolio" height="120"/>
   </a>
   <a href="https://github.com/CyrexStudio/CyrexStudio.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyrexStudio&repo=CyrexStudio.github.io&theme=radical" alt="Cyrex Studio Website" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyrexStudio&repo=CyrexStudio.github.io&theme=radical" alt="Cyrex Studio Website" height="120"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/valpackett/soundfixer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valpackett&repo=soundfixer&theme=radical" alt="SoundFixer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valpackett&repo=soundfixer&theme=radical" alt="SoundFixer" height="120"/>
   </a>
-  <a href="https://github.com/LoupesDEV/loupesdev.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=loupesdev.github.io&theme=radical" alt="Project 4" />
+  <a href="https://github.com/LoupesDEV/MyBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=MyBox&theme=radical" alt="MyBox" height="120"/>
   </a>
 </p>
 
