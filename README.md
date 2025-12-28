@@ -10,7 +10,7 @@
   <a href="https://www.matheo-pichotmoise.fr/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23d2b76f.svg?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.matheo-pichotmoise.fr/" target="_blank">
+  <a href="https://www.cyrex.fr/" target="_blank">
     <img src="https://img.shields.io/badge/Cyrex%20Studio-%2300eaff.svg?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Cyrex Studio" />
   </a>
 </p>
