@@ -41,8 +41,8 @@
   <a href="https://github.com/valpackett/soundfixer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valpackett&repo=soundfixer&theme=radical" alt="SoundFixer" height="120"/>
   </a>
-  <a href="https://github.com/LoupesDEV/MyBox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=MyBox&theme=radical" alt="MyBox" height="120"/>
+  <a href="https://github.com/LoupesDEV/Crypte">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LoupesDEV&repo=Crypte&theme=radical" alt="MyBox" height="120"/>
   </a>
 </p>
 
