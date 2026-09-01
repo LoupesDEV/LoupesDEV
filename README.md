@@ -168,6 +168,7 @@
       <h2 style="color: #dc2626; margin-bottom: 5px;">HARDWARE</h2>
       <p style="color: #8b949e; font-size: 15px; margin-top: 0;">
         Fanatec P1 V2 • Simagic GT Neo<br>
+        Drift Wheel + Handbrake/Shifter<br>
         Simsonn Pro Plus • Custom Wind Tunnels
       </p>
     </td>
