@@ -68,9 +68,9 @@
         </a>
       </td>
       <td width="50%" valign="top">
-        <code>🌐 Website</code><br>
-        <a href="https://github.com/LoupesDEV/LiftIt">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=LoupesDEV&repo=LiftIt&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&border_color=21262d&hide_border=false" width="100%" alt="LiftIt GitHub card" />
+        <code>💻 Desktop</code><br>
+        <a href="https://github.com/LoupesDEV/Switcher">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=LoupesDEV&repo=Switcher&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&border_color=21262d&hide_border=false" width="100%" alt="Switcher GitHub card" />
         </a>
       </td>
     </tr>
@@ -78,13 +78,13 @@
       <td width="50%" valign="top">
         <code>🌐 Website</code><br>
         <a href="https://github.com/LoupesDEV/loupesdev.github.io">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=LoupesDEV&repo=loupesdev.github.io&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&border_color=21262d&hide_border=false" width="100%" alt="StreamIt GitHub card" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=LoupesDEV&repo=loupesdev.github.io&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&border_color=21262d&hide_border=false" width="100%" alt="loupesdev.github.io GitHub card" />
         </a>
       </td>
       <td width="50%" valign="top">
         <code>🌐 Website</code><br>
         <a href="https://github.com/CyrexStudio/cyrexstudio.github.io">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=CyrexStudio&repo=cyrexstudio.github.io&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&border_color=21262d&hide_border=false" width="100%" alt="LiftIt GitHub card" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=CyrexStudio&repo=cyrexstudio.github.io&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&border_color=21262d&hide_border=false" width="100%" alt="cyrexstudio.github.io GitHub card" />
         </a>
       </td>
     </tr>
@@ -98,7 +98,7 @@
       <td width="50%" valign="top">
         <code>💻 Desktop</code><br>
         <a href="https://github.com/LoupesDEV/Crypte">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=LoupesDEV&repo=Crypte&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&border_color=21262d&hide_border=false" width="100%" alt="Sim Racing Hardware" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=LoupesDEV&repo=Crypte&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&border_color=21262d&hide_border=false" width="100%" alt="Crypte GitHub card" />
         </a>
       </td>
     </tr>
