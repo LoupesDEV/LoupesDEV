@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #dc2626;">Mathéo "LOUPES" PICHOT-MOISE</h1>
-  <h3>Computer Science Student - Car Enthusiast</h3>
+  <h3>Computer Science Student | Technical Consultant</h3>
   
   <a href="https://github.com/LoupesDEV">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=dc2626" alt="GitHub" />
