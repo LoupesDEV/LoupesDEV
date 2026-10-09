@@ -113,52 +113,19 @@
 
 <br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="middle" align="center" style="padding: 30px;">
-      <h2 style="color: #dc2626; margin-bottom: 5px;">BMW E36 316i</h2>
-      <p style="color: #8b949e; font-size: 15px; margin-top: 0;">
-        Looking To Buy • 1996-1998 • France<br>
-        4-door chassis • 3-spoke steering wheel<br>
-        2'000€ - 3'500€
-      </p>
-    </td>
-    <td width="50%" style="padding: 0;">
-      <img src="https://images.caradisiac.com/logos-ref/modele/modele--bmw-serie-3-e36/S8-modele--bmw-serie-3-e36.jpg" width="100%" style="display: block;" alt="E36" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="padding: 0;">
-      <img src="https://hmsportsaero.com/cdn/shop/products/IMG_2380.jpg?v=1678382440&width=3000" width="100%" style="display: block;" alt="Aero Kit" />
-    </td>
-    <td width="50%" valign="middle" align="center" style="padding: 30px;">
-      <h2 style="color: #dc2626; margin-bottom: 5px;">Project</h2>
-      <p style="color: #8b949e; font-size: 15px; margin-top: 0;">
-        Body Kit HM Sports Aero<br>
-        Pack M3 (Front Bumper, Front Fenders)<br>
-        Angel Eyes Headlights
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:450a0a,50:dc2626,100:450a0a&height=4"/>
+  <h1 style="color: #dc2626;">SimRacing</h1>
 </div>
 
-<br>
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="50%" style="padding: 0;">
-      <img src="https://placehold.co/600x400/0d1117/dc2626?text=..." width="100%" style="display: block;" alt="Sim Rig" />
+      <img src="images/sim1.jpeg" width="100%" style="display: block;" alt="Sim Rig" />
     </td>
     <td width="50%" valign="middle" align="center" style="padding: 30px;">
       <h2 style="color: #dc2626; margin-bottom: 5px;">CHASSIS & BASE</h2>
       <p style="color: #8b949e; font-size: 15px; margin-top: 0;">
-        TrakRacer TR80 • Triple Screen<br>
+        TrakRacer TR80 • 27" Triple Screen<br>
         Fanatec CSL DD (8Nm)
       </p>
     </td>
@@ -168,15 +135,25 @@
       <h2 style="color: #dc2626; margin-bottom: 5px;">HARDWARE</h2>
       <p style="color: #8b949e; font-size: 15px; margin-top: 0;">
         Fanatec P1 V2 • Simagic GT Neo<br>
-        Drift Wheel + Handbrake/Shifter<br>
         Simsonn Pro Plus • Custom Wind Tunnels
       </p>
     </td>
     <td width="50%" style="padding: 0;">
-      <img src="https://placehold.co/600x400/0d1117/dc2626?text=..." width="100%" style="display: block;" alt="Hardware" />
+      <img src="images/sim2.jpeg" width="100%" style="display: block;" alt="Hardware" />
     </td>
   </tr>
 </table>
+
+<div>
+  <h3>Next purchases :</h3>
+  <ul>
+    <li>MOZA HBP Handbrake, <strong>110€</strong></li>
+    <li>Fanatec CLUBSPORT SHIFTER SQ V1.5, <strong>250€</strong></li>
+    <li>DriftShop 350mm / 70mm steering wheel, <strong>60€</strong></li>
+    <li>Triple 32" screen, <strong>500€</strong></li>
+    <li>4th monitor stand with one my current 27" screen, <strong>110€</strong></li>
+  </ul>
+</div>
 
 <br>
 
